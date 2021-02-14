@@ -553,7 +553,7 @@ MonoBehaviour:
     time: 0
     duration: 3
     finished: 0
-  sceneName: SampleScene 1
+  sceneName: Game
   fadeInTime: 1
   fadeOutTime: 1
   setImageColor: 1
